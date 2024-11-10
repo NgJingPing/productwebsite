@@ -1,28 +1,26 @@
 # productwebsite
  CRUD product system application
 
-### Product Page Screenshots
-
-** Product Main Page **
+**Product Main Page**
 
 ![image](https://github.com/NgJingPing/productwebsite/blob/main/screenshot/product.png)
 
 
-** Show Product Page **
+**Show Product Page**
 
 ![image](https://github.com/NgJingPing/productwebsite/blob/main/screenshot/showproduct.png)
 
 
-** Create Main Page **
+**Create Main Page**
 
 ![image](https://github.com/NgJingPing/productwebsite/blob/main/screenshot/createproduct.png)
 
 
-** Edit Product Page **
+**Edit Product Page**
 
 ![image](https://github.com/NgJingPing/productwebsite/blob/main/screenshot/editproduct.png)
 
 
-** Search Product Page **
+**Search Product Page**
 
 ![image](https://github.com/NgJingPing/productwebsite/blob/main/screenshot/searchproduct.png)
